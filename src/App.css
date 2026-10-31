@@ -1,0 +1,11 @@
+.app {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 0 16px;
+  text-align: center;
+  font-family: sans-serif;
+}
+.joke { margin: 24px 0; }
+.error { color: red; margin: 24px 0; }
+button { padding: 10px 20px; font-size: 16px; cursor: pointer; }
+button:disabled { cursor: not-allowed; }
